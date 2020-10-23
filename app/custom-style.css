@@ -1,0 +1,14 @@
+#oas-initial-description p{
+  margin-bottom: 0px;
+}
+
+.api-list-header img{
+  margin: 10px;
+  max-width: 250px;
+}
+
+@media screen and (max-width: 800px) {
+  .code-wrapper {
+    display: block !important;
+  }
+}
